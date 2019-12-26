@@ -5,7 +5,7 @@ function calculateInsurance() {
 
 	var name = document.getElementById('nome').value;
 
-	var selection = document.getElementById('paese')
+	var selection = document.getElementById('paese').value;
 
 	var horsepower = parseInt(document.getElementById('calvalo').value);
 
