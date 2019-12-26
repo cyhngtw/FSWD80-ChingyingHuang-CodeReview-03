@@ -112,7 +112,7 @@ position: relative;
  margin: 0;
  position: absolute;
  bottom: 0px;
- left: 25%;
+ left: 35%;
 }
 h3{
 	color: #202080;
@@ -160,8 +160,8 @@ position: relative;
 
 .btndiv{
     position: absolute;
-    left: 35%;
-    bottom:10%;
+    left: 45%;
+    bottom:50%;
     color: green;
 
 }
